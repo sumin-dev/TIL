@@ -11,7 +11,8 @@
   * 첫날이니까 조금 정성스럽게 오늘 공부한 것을 남겨보겠다!
 
 ![변수 위 가로줄 문제](https://user-images.githubusercontent.com/109029407/179265085-7349b69c-3b91-444c-8357-f8e4cced87bd.png)
-> 함수에 들어가는 ~~변수명~~ 에 왜 줄이 그어졌을까? (구글링 실패)
+> 함수에 들어가는 ~~변수명~~ 에 왜 줄이 그어졌을까?
+> (220718 해답을 찾음 https://github.com/sumin-dev/TIL/blob/main/220718_Algorithm.md)
 
 ![걷기1번문제](https://user-images.githubusercontent.com/109029407/179265170-0ac2e355-3248-43da-aab7-c09737b5059d.png)
 > 프로그래머스 직사각형 별찍기 문제.js
