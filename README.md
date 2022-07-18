@@ -3,4 +3,4 @@
 * [220715_Algorithm.md](https://github.com/sumin-dev/TIL/blob/main/220715_Algorithm.md)
 * [220716_Algorithm.md](https://github.com/sumin-dev/TIL/blob/main/220716_Algorithm.md)
 * [220717_WIL.md](https://github.com/sumin-dev/TIL/blob/main/220717_WIL.md)
-* [220718_Algorithm.md](https://github.com/sumin-dev/TIL/blob/main/220718_Algorithm.md) - 수정중
+* [220718_Algorithm.md](https://github.com/sumin-dev/TIL/blob/main/220718_Algorithm.md) - 기록중
