@@ -1,5 +1,7 @@
 # 항해99 8기 2주차 <알고리즘> TIL_20220718 #
 * vsc에서 변수명 name 위에 삭선이 그어지는 이유를 알았다! (220715 구글링실패 https://github.com/sumin-dev/TIL/blob/main/220715_Algorithm.md)
+![질문](https://user-images.githubusercontent.com/109029407/179432063-b5775993-2990-4196-ae43-4665866c4dd2.png)
+![답변](https://user-images.githubusercontent.com/109029407/179432067-3078d597-c4fb-44c1-a210-bdb7fea0b4bf.png)
 
 ----------------------------------------------------------------------------------------------------
 * **2주차 알고리즘 스터디(7.15.7.21.)** 가 시작됐다.
