@@ -9,3 +9,4 @@
 * [220721_Algorithm.md](https://github.com/sumin-dev/TIL/blob/main/220721_Algorithm.md)
 * [220722_Node.js.md](https://github.com/sumin-dev/TIL/blob/main/220722_Node.js.md)
 * [220723_Node.js.md](https://github.com/sumin-dev/TIL/blob/main/220723_Node.js.md)
+* [220724_WIL.md](https://github.com/sumin-dev/TIL/blob/main/220724_WIL.md)
