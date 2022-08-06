@@ -18,4 +18,4 @@
 * [220802_Node.js.md](https://github.com/sumin-dev/TIL/blob/main/220802_Node.js.md)
 * [220804_Node.js.md](https://github.com/sumin-dev/TIL/blob/main/220804_Node.js.md)
 * [220806_ES5 자바스크립트에서 CLASS의 동작원리](https://github.com/sumin-dev/TIL/blob/main/220806_Node.js.md)
-* [220807_GIT ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/220807_Node.js.md)
+* [220807_GIT CRLF ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/220807_Node.js.md)
