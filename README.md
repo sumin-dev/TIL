@@ -19,3 +19,4 @@
 * [220804_오류(에러) 처리 미들웨어 / .env 처리하기](https://github.com/sumin-dev/TIL/blob/main/220804_Node.js.md)
 * [220806_ES5 자바스크립트에서 CLASS의 동작원리](https://github.com/sumin-dev/TIL/blob/main/220806_Node.js.md)
 * [220807_GIT CRLF ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/220807_Node.js.md)
+* [220809_백엔드에서 일반적으로 사용되는 테스팅 기법](https://github.com/sumin-dev/TIL/blob/main/220809_Node.js.md)
