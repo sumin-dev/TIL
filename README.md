@@ -21,3 +21,4 @@
 * [220807_GIT CRLF ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/220807_Node.js.md)
 * [220808_Class의 호이스팅](https://github.com/sumin-dev/TIL/blob/main/220808_Node.js.md)
 * [220809_백엔드에서 일반적으로 사용되는 테스팅 기법](https://github.com/sumin-dev/TIL/blob/main/220809_Node.js.md)
+* [220810_Factory pattern: decoupling을 위한 디자인 패턴](https://github.com/sumin-dev/TIL/blob/main/220810_Node.js.md)
