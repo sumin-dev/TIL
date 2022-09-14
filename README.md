@@ -23,3 +23,4 @@
 * [220809_백엔드에서 일반적으로 사용되는 테스팅 기법](https://github.com/sumin-dev/TIL/blob/main/220809_Node.js.md)
 * [220810_Factory pattern: decoupling을 위한 디자인 패턴](https://github.com/sumin-dev/TIL/blob/main/220810_Node.js.md)
 * [220904_Node.js에서 웹 크롤링하기(무신사)](https://github.com/sumin-dev/TIL/blob/main/220904_Node.js.md)
+* [220914_CORS 해결하기](https://github.com/sumin-dev/TIL/blob/main/220914_Node.js.md)
