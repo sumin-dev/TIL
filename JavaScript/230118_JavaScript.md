@@ -13,3 +13,11 @@
     - 이유 첫번째) `Date` 형식으로 저장되고 있는데, 포맷을 바꾸려면 String 타입으로 변환해야하고 그렇게되면 Javascript에서 기본적으로 제공하는 시간 관련 기능들을 이용하지 못함
     - 이유 두번째) 만약 이후에 response 케이스가 추가되어 time format을 또 바꿔야한다면 매우 비효율적인 상황이 됨
     - 결론) DB에는 raw data 그대로 저장하고 상황에 맞게 가공해서 쓰자!  
+
+
+## 두 번째 시도(성공).
+- **코드 단에서 time format 가공하기**
+  - `created_at: c.t_created_at.toString().split('.')[0]`(실패) 
+  - `created_at: c.t_created_at.toISOString().split('.')[0]`(성공) 
+
+- 
