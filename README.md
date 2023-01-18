@@ -1,12 +1,12 @@
 # TIL
 ★노트북을 열었다면 한 단어라도 쓰는 개발개발기록★
-* [220715_프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/220715_Algorithm.md)
-* [220716_프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/220716_Algorithm.md)
+* [220715_프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220715_Algorithm.md)
+* [220716_프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220716_Algorithm.md)
 * [220717_WIL / JWT와 API](https://github.com/sumin-dev/TIL/blob/main/220717_WIL.md)
-* [220718_변수명 name 삭선 이유 / 프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/220718_Algorithm.md)
-* [220719_알고리즘 모의고사 후기 / 프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/220719_Algorithm.md)
-* [220720_프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/220720_Algorithm.md)
-* [220721_알고리즘 테스트 후기](https://github.com/sumin-dev/TIL/blob/main/220721_Algorithm.md)
+* [220718_변수명 name 삭선 이유 / 프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220718_Algorithm.md)
+* [220719_알고리즘 모의고사 후기 / 프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220719_Algorithm.md)
+* [220720_프로그래머스 알고리즘 문제(LV.1)](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220720_Algorithm.md)
+* [220721_알고리즘 테스트 후기](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220721_Algorithm.md)
 * [220722_for..in과 for...of 반복문 / 동기,비동기와 블로킹, 논블로킹](https://github.com/sumin-dev/TIL/blob/main/220722_Node.js.md)
 * [220723_유사배열과 배열의 차이 / RESTful API](https://github.com/sumin-dev/TIL/blob/main/220723_Node.js.md)
 * [220724_WIL / 자바스크립트의 ES5와 ES6 문법 차이](https://github.com/sumin-dev/TIL/blob/main/220724_WIL.md)
