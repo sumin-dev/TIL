@@ -27,3 +27,4 @@
 * [230117_TypeORM 시간 설정하기(KST vs UTC)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
 * [230118_JavaScript time format 변환하기](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230118_JavaScript.md)
 * [230119_JavaScript 객체 숫자 property의 자동정렬](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230119_JavaScript.md)
+* [230123_NestJS Logger](https://github.com/sumin-dev/TIL/blob/main/NestJS/230123_NestJS.md)
