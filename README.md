@@ -28,4 +28,4 @@
 * [230118_JavaScript time format 변환하기](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230118_JavaScript.md)
 * [230119_JavaScript 객체 숫자 property의 자동정렬](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230119_JavaScript.md)
 * [230123_NestJS Logger](https://github.com/sumin-dev/TIL/blob/main/NestJS/230123_NestJS.md)
-* [230130_git push -u ](https://github.com/sumin-dev/TIL/blob/main/GitHub/230130_GitHub.md)
+* [230130_git push -u를 사용하는 이유](https://github.com/sumin-dev/TIL/blob/main/GitHub/230130_GitHub.md)
