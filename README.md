@@ -10,7 +10,6 @@
 * [220802_express.js의 라우터 미들웨어 / webpack 번들러 / 호출스택과 이벤트 루프](https://github.com/sumin-dev/TIL/blob/main/220802_Node.js.md)
 * [220804_오류(에러) 처리 미들웨어 / .env 처리하기](https://github.com/sumin-dev/TIL/blob/main/220804_Node.js.md)
 * [220806_ES5 자바스크립트에서 CLASS의 동작원리](https://github.com/sumin-dev/TIL/blob/main/220806_Node.js.md)
-* [220807_GIT CRLF ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/220807_Node.js.md)
 * [220808_Class의 호이스팅](https://github.com/sumin-dev/TIL/blob/main/220808_Node.js.md)
 * [220809_백엔드에서 일반적으로 사용되는 테스팅 기법](https://github.com/sumin-dev/TIL/blob/main/220809_Node.js.md)
 * [220810_Factory pattern: decoupling을 위한 디자인 패턴](https://github.com/sumin-dev/TIL/blob/main/220810_Node.js.md)
@@ -34,6 +33,7 @@
 * [230119_JavaScript 객체 숫자 property의 자동정렬](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230119_JavaScript.md)
 
 ## 📌 GitHub
+* [220807_GIT CRLF ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/GitHub/220807_GitHub.md)
 * [230130_git push -u를 사용하는 이유](https://github.com/sumin-dev/TIL/blob/main/GitHub/230130_GitHub.md)
   
 ## 📌 NestJS
