@@ -24,9 +24,17 @@
 * [220810_Factory pattern: decoupling을 위한 디자인 패턴](https://github.com/sumin-dev/TIL/blob/main/220810_Node.js.md)
 * [220904_Node.js에서 웹 크롤링하기(무신사)](https://github.com/sumin-dev/TIL/blob/main/220904_Node.js.md)
 * [220914_CORS 해결하기](https://github.com/sumin-dev/TIL/blob/main/220914_Node.js.md)
-* [230117_TypeORM 시간 설정하기(KST vs UTC)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
+
+## 📌 JavaScript
 * [230118_JavaScript time format 변환하기](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230118_JavaScript.md)
 * [230119_JavaScript 객체 숫자 property의 자동정렬](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230119_JavaScript.md)
-* [230123_NestJS Logger](https://github.com/sumin-dev/TIL/blob/main/NestJS/230123_NestJS.md)
+
+## 📌 GitHub
 * [230130_git push -u를 사용하는 이유](https://github.com/sumin-dev/TIL/blob/main/GitHub/230130_GitHub.md)
+  
+## 📌 NestJS
+* [230123_NestJS Logger](https://github.com/sumin-dev/TIL/blob/main/NestJS/230123_NestJS.md)
+
+## 📌 TypeORM
+* [230117_TypeORM 시간 설정하기(KST vs UTC)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
 * [230131_getOne()과 getRawOne() 메소드의 차이점](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230131_TypeORM.md)
