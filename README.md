@@ -36,6 +36,7 @@
 * [220807_GIT CRLF ERROR 해결방안 / REPO 연동하기&커밋,푸쉬하기](https://github.com/sumin-dev/TIL/blob/main/GitHub/220807_GitHub.md)
 * [230130_git push -u를 사용하는 이유](https://github.com/sumin-dev/TIL/blob/main/GitHub/230130_GitHub.md)
 * [230206_git reset과 revert의 차이](https://github.com/sumin-dev/TIL/blob/main/GitHub/230206_GitHub.md)
+* [230305_git pull/fetch/checkout/switch/merge/rebase]
   
 ## 📌 NestJS
 * [230123_NestJS Logger](https://github.com/sumin-dev/TIL/blob/main/NestJS/230123_NestJS.md)
