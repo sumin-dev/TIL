@@ -9,8 +9,6 @@
 * [220801_ORM과 DB의 역할 / Mongoose에서 exec()함수의 역할](https://github.com/sumin-dev/TIL/blob/main/220801_Node.js.md)
 * [220802_express.js의 라우터 미들웨어 / webpack 번들러 / 호출스택과 이벤트 루프](https://github.com/sumin-dev/TIL/blob/main/220802_Node.js.md)
 * [220804_오류(에러) 처리 미들웨어 / .env 처리하기](https://github.com/sumin-dev/TIL/blob/main/220804_Node.js.md)
-* [220806_ES5 자바스크립트에서 CLASS의 동작원리](https://github.com/sumin-dev/TIL/blob/main/220806_Node.js.md)
-* [220808_Class의 호이스팅](https://github.com/sumin-dev/TIL/blob/main/220808_Node.js.md)
 * [220809_백엔드에서 일반적으로 사용되는 테스팅 기법](https://github.com/sumin-dev/TIL/blob/main/220809_Node.js.md)
 * [220810_Factory pattern: decoupling을 위한 디자인 패턴](https://github.com/sumin-dev/TIL/blob/main/220810_Node.js.md)
 * [220904_Node.js에서 웹 크롤링하기(무신사)](https://github.com/sumin-dev/TIL/blob/main/220904_Node.js.md)
@@ -29,6 +27,8 @@
 * [220721_알고리즘 테스트 후기](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220721_Algorithm.md)
 
 ## 📌 JavaScript
+* [220806_ES5 자바스크립트에서 CLASS의 동작원리](https://github.com/sumin-dev/TIL/blob/main/220806_Node.js.md)
+* [220808_Class의 호이스팅](https://github.com/sumin-dev/TIL/blob/main/220808_Node.js.md)
 * [230118_JavaScript time format 변환하기](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230118_JavaScript.md)
 * [230119_JavaScript 객체 숫자 property의 자동정렬](https://github.com/sumin-dev/TIL/blob/main/JavaScript/230119_JavaScript.md)
 
@@ -44,3 +44,6 @@
 ## 📌 TypeORM
 * [230117_TypeORM 시간 설정하기(KST vs UTC)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
 * [230131_getOne()과 getRawOne() 메소드의 차이점](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230131_TypeORM.md)
+
+## 📌 CSS
+* [SVG(Scalable Vector Graphics)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
