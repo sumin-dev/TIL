@@ -46,4 +46,4 @@
 * [230131_getOne()과 getRawOne() 메소드의 차이점](https://github.com/sumin-dev/TIL/blob/main/DB/230131_TypeORM.md)
 
 ## 📌 CSS
-* [SVG(Scalable Vector Graphics)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
+
