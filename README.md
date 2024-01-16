@@ -10,7 +10,7 @@
 * [220721_알고리즘 테스트 후기](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220721_Algorithm.md)
 
 ## 📌 JavaScript
-* [220722_for..in과 for...of 반복문 / 동기,비동기와 블로킹, 논블로킹](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220722_Javascript.md)
+* [220722_for..in과 for...of 반복문 / 동기,비동기와 블로킹, 논블로킹](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220722_JavaScript.md)
 * [220723_유사배열과 배열의 차이 / RESTful API](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220723_JavaScript.md)
 * [220724_WIL / 자바스크립트의 ES5와 ES6 문법 차이](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220724_JavaScript.md)
 * [220727_DNS 동작방식 / new 연산자와 생성자 함수](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220727_JavaScript.md)
@@ -26,7 +26,7 @@
 * [230305_git pull/fetch/checkout/switch/merge/rebase](https://github.com/sumin-dev/TIL/blob/main/GitHub/230305_GitHub.md)
 
 ## 📌 Node.js
-* [220717_WIL / JWT와 API](https://github.com/sumin-dev/TIL/blob/main/WIL/220717_WIL.md)
+* [220717_WIL / JWT와 API](https://github.com/sumin-dev/TIL/blob/main/Nodejs/220717_Nodejs.md)
 * [220725_REST API의 PUT과 PATCH 차이점 / .gitignore](https://github.com/sumin-dev/TIL/blob/main/220725_Node.js.md)
 * [220728_주특기 입문 주차 개인과제 QnA](https://github.com/sumin-dev/TIL/blob/main/220728_Node.js.md)
 * [220802_express.js의 라우터 미들웨어 / webpack 번들러 / 호출스택과 이벤트 루프](https://github.com/sumin-dev/TIL/blob/main/220802_Node.js.md)
