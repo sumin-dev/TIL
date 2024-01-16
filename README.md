@@ -40,10 +40,10 @@
 * [230123_NestJS Logger](https://github.com/sumin-dev/TIL/blob/main/NestJS/230123_NestJS.md)
 
 ## 📌 ORM & DB
-* [220726_몽고DB 테이블 설계 / 컴퓨터 리소스](https://github.com/sumin-dev/TIL/blob/main/220726_Node.js.md)
-* [220801_ORM과 DB의 역할 / Mongoose에서 exec()함수의 역할](https://github.com/sumin-dev/TIL/blob/main/220801_Node.js.md)
-* [230117_TypeORM 시간 설정하기(KST vs UTC)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
-* [230131_getOne()과 getRawOne() 메소드의 차이점](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230131_TypeORM.md)
+* [220726_몽고DB 테이블 설계 / 컴퓨터 리소스](https://github.com/sumin-dev/TIL/blob/main/DB/220726_MongoDB.md)
+* [220801_ORM과 DB의 역할 / Mongoose에서 exec()함수의 역할](https://github.com/sumin-dev/TIL/blob/main/DB/220801_Sequelize.md)
+* [230117_TypeORM 시간 설정하기(KST vs UTC)](https://github.com/sumin-dev/TIL/blob/main/DB/230117_TypeORM.md)
+* [230131_getOne()과 getRawOne() 메소드의 차이점](https://github.com/sumin-dev/TIL/blob/main/DB/230131_TypeORM.md)
 
 ## 📌 CSS
 * [SVG(Scalable Vector Graphics)](https://github.com/sumin-dev/TIL/blob/main/TypeORM/230117_TypeORM.md)
