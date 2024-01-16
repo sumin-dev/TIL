@@ -10,7 +10,7 @@
 * [220721_알고리즘 테스트 후기](https://github.com/sumin-dev/TIL/blob/main/Algorithm/220721_Algorithm.md)
 
 ## 📌 JavaScript
-* [220722_for..in과 for...of 반복문 / 동기,비동기와 블로킹, 논블로킹](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220722_JavaScript.md)
+* [220722_for..in과 for...of 반복문 / 동기,비동기와 블로킹, 논블로킹](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220722_Javascript.md)
 * [220723_유사배열과 배열의 차이 / RESTful API](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220723_JavaScript.md)
 * [220724_WIL / 자바스크립트의 ES5와 ES6 문법 차이](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220724_JavaScript.md)
 * [220727_DNS 동작방식 / new 연산자와 생성자 함수](https://github.com/sumin-dev/TIL/blob/main/JavaScript/220727_JavaScript.md)
